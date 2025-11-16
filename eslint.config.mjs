@@ -14,6 +14,7 @@ const eslintConfig = [
   {
     rules: {
       "@typescript-eslint/no-unused-express": "off",
+      "@typescript-eslint/ban-ts-comment": "off",
     },
   },
 ];
